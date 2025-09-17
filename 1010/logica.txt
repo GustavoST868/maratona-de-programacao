@@ -1,0 +1,4 @@
+1. Receber os parâmetros via terminal.
+2. Converter os valores necessários para calcular o valor total.
+3. Calcular o valor total a pagar.
+4. Mostrar para o usuário a mensagens construída.
