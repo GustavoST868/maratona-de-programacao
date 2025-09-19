@@ -1,4 +1,3 @@
-# maratona-de-programacao
-Resolução de questões de programação.
+Resolução de questões de programação em diversas linguagens.
 
 
