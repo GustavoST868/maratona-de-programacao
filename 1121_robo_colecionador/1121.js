@@ -1,4 +1,4 @@
-//Criação das estrutura para ler entradas no terminal
+//ler entradas do terminal
 const readline = require('readline');
 const rl = readline.createInterface({
     input: process.stdin,
