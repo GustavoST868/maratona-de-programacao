@@ -17,7 +17,7 @@ float float_argv6 = atof(argv[6]);
 float valor_a_pagar = float_argv3 * float_argv5 + float_argv4 * float_argv6;
 ```
 ---
-##3. Mostrar a mensagem
+## 3. Mostrar a mensagem
 
 
 ```c
